@@ -1,0 +1,12 @@
+- id: GPC
+  title: "GPC: Generative and General Pathology Image Classifier"
+  venue: MICCAI-Workshop, 2023
+  description: "A task-agnostic generative and general pathology image classifier"
+  # project_page: "https://hypernerf.github.io"
+  github: https://github.com/QuIIL/GPC
+  open_access: "https://link.springer.com/chapter/10.1007/978-3-031-47401-9_20"
+  image: GPC.jpg
+  first_authors:
+    - anhtiennguyen
+  authors:
+    - jintaekwak
