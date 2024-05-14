@@ -1,8 +1,19 @@
+- id: TQx
+  title: "Towards a text-based quantitative and explainable histopathology image analysis"
+  venue: MICCAI 2024 (Early accept, top 11%)
+  description: "An explainable method to utilize texts for quantifying pathology images"
+  github: https://github.com/QuIIL/TQx
+  open_access: "https://github.com/QuIIL/TQx"
+  image: TQx.png
+  first_authors:
+    - anhtiennguyen
+  authors:
+    - trinhvg
+    - jintaekwak
 - id: GPC
   title: "GPC: Generative and General Pathology Image Classifier"
-  venue: MICCAI-Workshop, 2023
+  venue: MICCAI-MedAGI 2023 (Best Paper Honorable Mention)
   description: "A task-agnostic generative and general pathology image classifier"
-  # project_page: "https://hypernerf.github.io"
   github: https://github.com/QuIIL/GPC
   open_access: "https://link.springer.com/chapter/10.1007/978-3-031-47401-9_20"
   image: GPC.png
