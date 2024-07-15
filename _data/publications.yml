@@ -3,19 +3,34 @@
   venue: MICCAI 2024 (Early accept, top 11%)
   description: "An explainable method to utilize texts for quantifying pathology images"
   github: https://github.com/QuIIL/TQx
-  open_access: "https://github.com/QuIIL/TQx"
+  open_access: "http://arxiv.org/abs/2407.07360"
   image: TQx.png
   first_authors:
     - anhtiennguyen
   authors:
     - trinhvg
     - jintaekwak
+- id: CAMP
+  title: "CAMP: Continuous and Adaptive Learning Model in Pathology"
+  venue: Under review (journal)
+  description: "A framework for continuous learning that is applicable for any vision model."
+  github: https://github.com/QuIIL/CAMP
+  open_access: "https://arxiv.org/abs/2407.09030"
+  image: CAMP.png
+  first_authors:
+    - anhtiennguyen
+  authors:
+    - keunho
+    - Kyungeun
+    - Boram
+    - Seoung
+    - jintaekwak
 - id: GPC
   title: "GPC: Generative and General Pathology Image Classifier"
   venue: MICCAI-MedAGI 2023 (Best Paper Honorable Mention)
   description: "A task-agnostic generative and general pathology image classifier"
   github: https://github.com/QuIIL/GPC
-  open_access: "https://link.springer.com/chapter/10.1007/978-3-031-47401-9_20"
+  open_access: "http://arxiv.org/abs/2407.09035"
   image: GPC.png
   first_authors:
     - anhtiennguyen

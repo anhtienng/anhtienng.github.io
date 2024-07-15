@@ -11,4 +11,17 @@ trinhvg:
   first_name: Trinh
   last_name: Thi Le Vuong
   website: https://github.com/trinhvg
+keunho:
+  first_name: Keunho
+  last_name: Byeon
+  website: http://www.kwaklab.net/      Anh Tien Nguyen, Keunho Byeon, Kyungeun Kim, Boram Song, Seoung Wan
+Kyungeun:
+  first_name: Kyungeun
+  last_name: Kim
+Boram:
+  first_name: Boram
+  last_name: Song
+Seoung:
+  first_name: Seoung
+  last_name: Wan
 
