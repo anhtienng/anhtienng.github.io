@@ -15,7 +15,7 @@
   venue: Under review (journal)
   description: "A framework for continuous learning that is applicable for any vision model."
   github: https://github.com/QuIIL/CAMP
-  open_access: "https://arxiv.org/abs/2407.09030"
+  open_access: "https://github.com/QuIIL/CAMP"
   image: CAMP.png
   first_authors:
     - anhtiennguyen
