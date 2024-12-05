@@ -1,3 +1,19 @@
+- id: Mamba2D
+  title: "Towards a text-based quantitative and explainable histopathology image analysis"
+  venue: Under review
+  description: "A 2D-Mamba based approach for vision tasks."
+  github: https://github.com/AtlasAnalyticsLab/2DMamba
+  open_access: "https://arxiv.org/abs/2412.00678"
+  image: 2DMambaMIL.png
+  first_authors:
+    - Jingwei
+    - anhtiennguyen
+    - XiHan
+  authors:
+    - Vincent
+    - HongQin
+    - Dimitris
+    - Mahdi
 - id: TQx
   title: "Towards a text-based quantitative and explainable histopathology image analysis"
   venue: MICCAI 2024 (Early accept, top 11%)

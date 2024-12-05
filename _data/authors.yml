@@ -14,7 +14,7 @@ trinhvg:
 keunho:
   first_name: Keunho
   last_name: Byeon
-  website: http://www.kwaklab.net/      Anh Tien Nguyen, Keunho Byeon, Kyungeun Kim, Boram Song, Seoung Wan
+  website: http://www.kwaklab.net/ 
 Kyungeun:
   first_name: Kyungeun
   last_name: Kim
@@ -24,4 +24,30 @@ Boram:
 Seoung:
   first_name: Seoung
   last_name: Wan
+Seoung:
+  first_name: Seoung
+  last_name: Wan
+XiHan:
+  first_name: Xi
+  last_name: Han
+Jingwei:
+  first_name: Jingwei
+  last_name: Zhang
+  website: https://scholar.google.com/citations?user=8yA5YncAAAAJ&hl=en
+Vincent:
+  first_name: Vincent
+  last_name:  Quoc-Huy Trinh
+  website: https://www.iric.ca/en/research/principal-investigators/vincent-q-trinh
+HongQin:
+  first_name: Hong
+  last_name: Qin
+  website: https://www3.cs.stonybrook.edu/~qin/
+Dimitris:
+  first_name: Dimitris
+  last_name: Samaras
+  website: https://www3.cs.stonybrook.edu/~samaras/
+Mahdi:
+  first_name: Mahdi
+  last_name: Hosseini
+  website: https://www.concordia.ca/faculty/mahdi-hosseini.html
 
