@@ -1,7 +1,7 @@
 - id: Mamba2D
   title: "Towards a text-based quantitative and explainable histopathology image analysis"
   venue: Under review
-  description: "A 2D-Mamba based approach for vision tasks."
+  description: "A novel 2D selective SSM framework that incorporates the 2D spatial structure of images into Mamba, with a highly optimized hardware-aware operator."
   github: https://github.com/AtlasAnalyticsLab/2DMamba
   open_access: "https://arxiv.org/abs/2412.00678"
   image: 2DMambaMIL.png
