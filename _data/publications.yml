@@ -1,5 +1,5 @@
 - id: Mamba2D
-  title: "Towards a text-based quantitative and explainable histopathology image analysis"
+  title: "2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification"
   venue: Under review
   description: "A novel 2D selective SSM framework that incorporates the 2D spatial structure of images into Mamba, with a highly optimized hardware-aware operator."
   github: https://github.com/AtlasAnalyticsLab/2DMamba
