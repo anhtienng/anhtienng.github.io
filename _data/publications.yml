@@ -1,6 +1,19 @@
+- id: VLEER
+  title: "VLEER: Vision and Language Embeddings for Explainable Whole Slide Image Representation"
+  venue: Under review
+  description: "A novel method designed to leverage VLMs for WSI representation with explainability"
+  # github: https://arxiv.org/abs/2502.20850
+  open_access: "https://arxiv.org/abs/2502.20850"
+  image: VLEER.png
+  first_authors:
+    - anhtiennguyen
+  authors:
+    - keunho
+    - Kyungeun
+    - jintaekwak
 - id: Mamba2D
   title: "2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification"
-  venue: Under review
+  venue: CVPR 2025
   description: "A novel 2D selective SSM framework that incorporates the 2D spatial structure of images into Mamba, with a highly optimized hardware-aware operator."
   github: https://github.com/AtlasAnalyticsLab/2DMamba
   open_access: "https://arxiv.org/abs/2412.00678"
