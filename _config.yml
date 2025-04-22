@@ -20,12 +20,12 @@
 
 title: Anh Tien Nguyen
 name: Anh Tien Nguyen
-position: Master's Student 
-email: ngtienanh@korea.ac.kr
+position: PhD Student 
+email: anh.nguyen.3@stonybrook.edu
 description: >-
-  I am a graduate Master's student at [Korea University](https://graduate2.korea.ac.kr/main/main.html), supervised by [Prof. Jin Tae Kwak](https://www.kwaklab.net/PI.html). My works focus on medical image analysis, especially computational pathology. Recently, I am working on whole slide image analysis and interpretable methods in computational pathology.
+  I am a upcoming CS PhD student at [Stony Brook University](https://www.cs.stonybrook.edu/). My works focus on medical image analysis, especially computational pathology. Recently, I am working on whole slide image analysis and interpretable methods in computational pathology.
 
-  Email: ngtienanh (at) korea (dot) ac (dot) kr
+  Email: anh.nguyen.3 (at) stonybrook (dot) edu
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://anhtienng.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
