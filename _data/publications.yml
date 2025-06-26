@@ -1,3 +1,36 @@
+- id: Ano-NAViLa
+  title: "Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images"
+  venue: ICCV 2025
+  description: "A model that detects anomalous pathology by utilizing expert knowledge of normal and abnormal histopathology as well as knowledge from a pre-trained VLM"
+  # github: https://arxiv.org/abs/2502.20850
+  # open_access: "https://arxiv.org/abs/2502.20850"
+  image: AnoPILaD
+  first_authors:
+    - Jinsol
+  authors:
+    - Jiamu
+    - anhtiennguyen
+    - anhtiennguyen
+    - keunho
+    - Sangjeong
+    - SungHak
+    - jintaekwak
+- id: AnoPILaD.png
+  title: "Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis"
+  venue: MICCAI 2025
+  description: "A pathology-informed LDM for unsupervised anomaly detection in lymph nodes"
+  # github: https://arxiv.org/abs/2502.20850
+  # open_access: "https://arxiv.org/abs/2502.20850"
+  image: AnoPILaD.png
+  first_authors:
+    - Jiamu
+  authors:
+    - keunho
+    - Jinsol
+    - anhtiennguyen
+    - Sangjeong
+    - SungHak
+    - jintaekwak
 - id: VLEER
   title: "VLEER: Vision and Language Embeddings for Explainable Whole Slide Image Representation"
   venue: Under review
