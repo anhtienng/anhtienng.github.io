@@ -4,7 +4,7 @@
   description: "A model that detects anomalous pathology by utilizing expert knowledge of normal and abnormal histopathology as well as knowledge from a pre-trained VLM"
   # github: https://arxiv.org/abs/2502.20850
   # open_access: "https://arxiv.org/abs/2502.20850"
-  image: AnoPILaD
+  image: Ano-NAViLa.png
   first_authors:
     - Jinsol
   authors:
