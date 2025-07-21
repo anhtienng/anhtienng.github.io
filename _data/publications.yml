@@ -32,7 +32,7 @@
     - jintaekwak
 - id: VLEER
   title: "VLEER: Vision and Language Embeddings for Explainable Whole Slide Image Representation"
-  venue: Under review
+  venue: MICCAI-Workshop 2025
   description: "A novel method designed to leverage VLMs for WSI representation with explainability"
   # github: https://arxiv.org/abs/2502.20850
   open_access: "https://arxiv.org/abs/2502.20850"
@@ -88,7 +88,7 @@
     - jintaekwak
 - id: GPC
   title: "GPC: Generative and General Pathology Image Classifier"
-  venue: MICCAI-MedAGI 2023 (Best Paper Honorable Mention)
+  venue: MICCAI-Workshop 2023 (Best Paper Honorable Mention)
   description: "A task-agnostic generative and general pathology image classifier"
   github: https://github.com/QuIIL/GPC
   open_access: "http://arxiv.org/abs/2407.09035"
