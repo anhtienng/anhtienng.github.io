@@ -25,7 +25,7 @@ email: atinguyen@cs.stonybrook.edu
 description: >-
   I am a upcoming CS PhD student at [Stony Brook University](https://www.cs.stonybrook.edu/). My works focus on medical image analysis, especially computational pathology. Recently, I am working on whole slide image analysis and interpretable methods in computational pathology.
 
-  Email: anh.nguyen.3 (at) cs (dot) stonybrook (dot) edu
+  Email: atinguyen (at) cs (dot) stonybrook (dot) edu
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://anhtienng.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
