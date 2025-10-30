@@ -2,8 +2,8 @@
   title: "Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images"
   venue: ICCV 2025
   description: "A model that detects anomalous pathology by utilizing expert knowledge of normal and abnormal histopathology as well as knowledge from a pre-trained VLM"
-  # github: https://arxiv.org/abs/2502.20850
-  # open_access: "https://arxiv.org/abs/2502.20850"
+  github: https://github.com/QuIIL/ICCV2025_Ano-NAViLa
+  open_access: "https://arxiv.org/abs/2508.15256"
   image: Ano-NAViLa.png
   first_authors:
     - Jinsol
@@ -18,8 +18,8 @@
   title: "Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis"
   venue: MICCAI 2025
   description: "A pathology-informed LDM for unsupervised anomaly detection in lymph nodes"
-  # github: https://arxiv.org/abs/2502.20850
-  # open_access: "https://arxiv.org/abs/2502.20850"
+  github: https://github.com/QuIIL/AnoPILaD
+  open_access: "https://arxiv.org/abs/2508.15236v1"
   image: AnoPILaD.png
   first_authors:
     - Jiamu
@@ -73,7 +73,7 @@
     - jintaekwak
 - id: CAMP
   title: "CAMP: Continuous and Adaptive Learning Model in Pathology"
-  venue: Under review (journal)
+  venue: npj Artificial Intelligence
   description: "A framework for continuous learning that is applicable for any vision model."
   github: https://github.com/QuIIL/CAMP
   open_access: "https://github.com/QuIIL/CAMP"
