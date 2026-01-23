@@ -3,7 +3,7 @@
   venue: ICCV 2025
   description: "A model that detects anomalous pathology by utilizing expert knowledge of normal and abnormal histopathology as well as knowledge from a pre-trained VLM"
   github: https://github.com/QuIIL/ICCV2025_Ano-NAViLa
-  open_access: "https://arxiv.org/abs/2508.15256"
+  open_access: "https://openaccess.thecvf.com/content/ICCV2025/papers/Song_Normal_and_Abnormal_Pathology_Knowledge-Augmented_Vision-Language_Model_for_Anomaly_Detection_ICCV_2025_paper.pdf#/"
   image: Ano-NAViLa.png
   first_authors:
     - Jinsol
@@ -76,7 +76,7 @@
   venue: npj Artificial Intelligence
   description: "A framework for continuous learning that is applicable for any vision model."
   github: https://github.com/QuIIL/CAMP
-  open_access: "https://github.com/QuIIL/CAMP"
+  open_access: "https://www.nature.com/articles/s44387-025-00051-5#/"
   image: CAMP.png
   first_authors:
     - anhtiennguyen
