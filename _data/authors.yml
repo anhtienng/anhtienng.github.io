@@ -18,7 +18,7 @@ jintaekwak:
 trinhvg:
   first_name: Trinh
   last_name: Thi Le Vuong
-  website: https://github.com/trinhvg
+  website: https://scholar.google.com/citations?user=trFdwLkAAAAJ&hl=en
 keunho:
   first_name: Keunho
   last_name: Byeon
@@ -38,6 +38,7 @@ Seoung:
 XiHan:
   first_name: Xi
   last_name: Han
+  website: https://axihixa.github.io/
 Jingwei:
   first_name: Jingwei
   last_name: Zhang
@@ -53,11 +54,11 @@ HongQin:
 Dimitris:
   first_name: Dimitris
   last_name: Samaras
-  website: https://www3.cs.stonybrook.edu/~samaras/
+  website: https://scholar.google.com/citations?user=BxbKTYkAAAAJ&hl=en&oi=ao
 Mahdi:
   first_name: Mahdi S.
   last_name: Hosseini
-  website: https://www.concordia.ca/faculty/mahdi-hosseini.html
+  website: https://scholar.google.com/citations?user=SO-FFrgAAAAJ&hl=en
 Jinsol:
   first_name: Jinsol
   last_name: Song
