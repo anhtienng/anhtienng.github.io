@@ -16,7 +16,7 @@
   description: "A training objective to directly optimize monosemanticity"
   github: https://github.com/AtlasAnalyticsLab/MonoLoss
   open_access: "https://arxiv.org/abs/2602.12403"
-  image: MonoLoss.pdf
+  image: MonoLoss.png
   first_authors:
     - ali
     - anhtiennguyen
