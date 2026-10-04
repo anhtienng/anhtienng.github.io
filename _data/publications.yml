@@ -1,3 +1,29 @@
+- id: DualSAE
+  title: "Separating interpretability and reconstruction objectives in Sparse Autoencoders"
+  venue: Under review
+  description: "A method to separate interpretability and reconstruction objectives in sparse autoencoders"
+  # github: https://github.com/QuIIL/ICCV2025_Ano-NAViLa
+  # open_access: "https://openaccess.thecvf.com/content/ICCV2025/papers/Song_Normal_and_Abnormal_Pathology_Knowledge-Augmented_Vision-Language_Model_for_Anomaly_Detection_ICCV_2025_paper.pdf#/"
+  image: dualsae.jpg
+  first_authors:
+    - anhtiennguyen
+  authors:
+    - Dimitris
+    - Mahdi
+- id: MonoLoss
+  title: "MonoLoss: A Training Objective for Interpretable Monosemantic Representations"
+  venue: Under review
+  description: "A training objective to directly optimize monosemanticity"
+  github: https://github.com/AtlasAnalyticsLab/MonoLoss
+  open_access: "https://arxiv.org/abs/2602.12403"
+  image: MonoLoss.pdf
+  first_authors:
+    - ali
+    - anhtiennguyen
+  authors:
+    - HassanRivaz
+    - Dimitris
+    - Mahdi
 - id: Ano-NAViLa
   title: "Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images"
   venue: ICCV 2025
